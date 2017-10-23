@@ -11,7 +11,6 @@ app.get("/",function (req,res) {
         }
         res.send("数据库插入成功")
     })
-
 });
 app.get("/du",function (req,res) {
     db.find("restaurants",{},function (err,result) {
