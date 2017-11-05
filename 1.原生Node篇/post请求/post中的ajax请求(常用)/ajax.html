@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button onclick="set()">发送post的ajax请求</button>
+
+<script>
+    var data = {name:"bob",age:20,sex:"male"};
+    var xhr = new XMLHttpRequest();//demo中不考虑浏览器兼容问题
+    function set() {
+        xhr.open("POST","http://localhost:3000/aa");
+        xhr.send(data);
+    }
+    xhr.onreadystatechange=function () {
+        if(xhr.status==200 && xhr.readyState==4){
+            console.log(xhr.responseText);
+        }
+    }
+</script>
+
+</body>
+</html>

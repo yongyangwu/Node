@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button onclick="sendajax()">点击发送ajax请求</button>
+
+<script>
+    var obj={username:"wu",password:123456,sex:"male"};
+    var xhr = new XMLHttpRequest();
+    function sendajax() {
+        xhr.open("GET","http://localhost:3000/?username=wu&password=123456&sex=male");
+        xhr.send(null);
+    }
+    xhr.onreadystatechange=function () {
+        if(xhr.readyState==4 && xhr.status==200){
+            console.log(xhr.responseText)
+        }
+    }
+</script>
+</body>
+</html>
