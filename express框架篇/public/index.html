@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div onclick="saveData()">发送请求</div>
+
+<script>
+    function saveData() {
+        var xhr = new XMLHttpRequest();
+        xhr.open("post","http://localhost:8288/register");
+        xhr.send({username:"wu3eee",password:"1234"})
+    }
+</script>
+
+</body>
+</html>

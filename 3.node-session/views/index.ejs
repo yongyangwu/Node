@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .container{
+            display:flex;
+            justify-content: space-around;
+        }
+        .container div{
+            background-color: pink;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div>首页</div>
+    <% if(login){ %>
+    <div> <%= name %></div>
+    <div>退出</div>
+    <% }else{ %>
+    <div>登录</div>
+    <div>注册</div>
+    <% } %>
+</div>
+
+
+</body>
+</html>
