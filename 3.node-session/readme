@@ -1,0 +1,15 @@
+服务器记录了 我刚才给一个请求设置了一个叫cookie
+叫做swdq1232dwd123es2edf2ws24rdx34edxz23edx
+这个人的name属性叫kaola age属性是12
+那么如果有一个人携带了swdq1232dwd123es2edf2ws24rdx34edxz23edx
+那么这个人就是考拉 年龄12
+
+服务器需要缓存一些东西
+session  依赖于cookie 当一个浏览器禁用cookie的时候登陆效果消失 或者用户清楚cookie登陆也消失了
+
+session 比cookie不一样的在哪里 session下发的是乱码 并且服务器自己缓存一些东西 下次浏览器的请求带上乱码上来 此时与缓存比较 看看是谁
+
+任何语言中 session的使用 是机理透明的 他是帮你设置cookie的但是足够方便  让你感觉不到这事儿和cookie有关
+
+
+

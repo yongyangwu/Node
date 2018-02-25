@@ -3,7 +3,7 @@ var path  =require("path"),
 
 var app = express();
 app.use(express.static(path.join(__dirname,'www')));
-app.listen(8388,function (err) {
+app.listen(3000,function (err) {
     if(err){
         throw err;
     }
