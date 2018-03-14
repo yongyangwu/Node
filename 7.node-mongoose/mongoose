@@ -1,0 +1,4 @@
+mongod --dbpath D:/mongodb
+
+mongoose 不用引mongodb包 自己封装了
+mongoose的哲学是让你用操作对象的方式操作数据库
