@@ -1,13 +1,17 @@
-var http = require('http');
-http.createServer(function (request, response) {
-    // 发送 HTTP 头部
-    // HTTP 状态值: 200 : OK
-    // 内容类型: text/html
-    response.writeHead(200, {'Content-Type': 'text/html;charset=UTF-8'});
-    // 发送响应数据 "Hello World"
-    response.end("收到");
-}).listen(8388,function () {
-    // 终端打印如下信息
-    console.log('Server running at http://127.0.0.1:8388/');
+var express = require('express');
+var app = express();
+// app.get("/",function (req,res) {
+//     //设置cookie
+//     // res.cookie('xihao','tfboys',{ maxAge:900000, httpOnly:true });
+//     //读取cookies
+//     // console.log(req.cookies);
+//     res.send("设置cookie成功:");
+// });
+app.get("/",function (req,res) {
+    console.log(req.ip);
+    res.send("hello world");
 });
 
+app.listen(3000,function () {
+    console.log("server is running");
+});

@@ -8,8 +8,6 @@ db.once('open', function() {
 //创建一个schema结构
 var studentSchema = new mongoose.Schema({
     name:{type:String},
-    age:{type:Number},
-    sex:{type:String}
 });
 //类是基于schema创建的
 var Student  = mongoose.model("Student",studentSchema);
