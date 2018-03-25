@@ -17,14 +17,14 @@ db.once('open', function() {
     //类是基于schema创建的
     var Kitten  = mongoose.model("Student",kittySchema);
     //实例化一个Kitten类
-    // var fluffy = new Kitten({ name: 'fluffy' });
-    // // console.log(silence.name);
-    // fluffy.save(function (err, fluffy) {
-    //     if (err) {
-    //         return console.error(err);
-    //     }
-    //     console.log(fluffy)
-    // });
+    var fluffy = new Kitten({ name: 'fluffy' });
+    // console.log(silence.name);
+    fluffy.save(function (err, fluffy) {
+        if (err) {
+            return console.error(err);
+        }
+        console.log(fluffy)
+    });
     Kitten.find({name:/flu/},function (err, kittens) {
         if (err) return console.error(err);
         console.log(kittens);

@@ -15,11 +15,11 @@ db.once('open', function() {
     //增增增增增增增增增增增增增增增增增增增增增增增增增增增增增增增增
 
     // //实例化一个Player类
-    // // var p1 = new Player({
-    // //     name: 'tom',
-    // //     age:18,
-    // //     sex:"男"
-    // // });
+    // var p1 = new Player({
+    //     name: 'tom2',
+    //     age:18,
+    //     sex:"男"
+    // });
     // var p1 = new Player({
     //     name: 'lucy',
     //     age:18,
@@ -43,13 +43,24 @@ db.once('open', function() {
     //     }
     // })
     //查查查查查查查查查查查查查查查查查查查查查查查查查查查查查查查查
+
     //改改改改改改改改改改改改改改改改改改改改改改改改改改改改改改改改
-    Player.update({name:'tom'},{$set:{name:'gary'}},function(err, doc){
+    // Player.update({name:'tom'},{$set:{name:'gary'}},function(err, doc){
+    //     if(err) {
+    //         console.log(err.message)
+    //     }else{
+    //         console.log(doc)
+    //     }
+    // })
+    //改改改改改改改改改改改改改改改改改改改改改改改改改改改改改改改改
+
+    //删删删删删删删删删删删删删删删删删删删删删删删删删删删删删删删删
+    Player.remove({name:'tom'},function(err, doc){
         if(err) {
             console.log(err.message)
         }else{
             console.log(doc)
         }
     })
-    //改改改改改改改改改改改改改改改改改改改改改改改改改改改改改改改改
+    //删删删删删删删删删删删删删删删删删删删删删删删删删删删删删删删删
 });

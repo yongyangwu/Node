@@ -1,5 +1,5 @@
 var mongoose = require("mongoose");
-mongoose.connect("mongodb://localhost/test4");
+mongoose.connect("mongodb://localhost/test2");
 var db = mongoose.connection;
 db.on('error', console.error.bind(console, 'connection error:'));
 db.once('open', function() {
@@ -13,9 +13,7 @@ var studentSchema = new mongoose.Schema({
 var Student  = mongoose.model("Student",studentSchema);
 //实例化一个学生类
 var xiaoming = new Student({
-    name:"小明",
-    age:12,
-    sex:"男"
+    name:"小明"
 });
 //保存这个学生类
 xiaoming.save(function () {
