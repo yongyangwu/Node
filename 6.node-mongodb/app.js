@@ -3,6 +3,8 @@ var mongodb = require('mongodb');//
 var MongoClient = mongodb.MongoClient;//
 // Connection URL
 var url = 'mongodb://localhost:27017/test1';
+//连接远程数据服务器
+// var url = 'mongodb://45.32.34.37:27017/test1';
 MongoClient.connect(url, function(err, db) {
     if (err){
         throw err;

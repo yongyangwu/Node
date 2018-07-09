@@ -1,8 +1,17 @@
 {
+  "name": "3.node-session",
+  "version": "1.0.0",
+  "description": "服务器记录了 我刚才给一个请求设置了一个叫cookie\r 叫做swdq1232dwd123es2edf2ws24rdx34edxz23edx\r 这个人的name属性叫kaola age属性是12\r 那么如果有一个人携带了swdq1232dwd123es2edf2ws24rdx34edxz23edx\r 那么这个人就是考拉 年龄12",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "ejs": "^2.5.7",
-    "express": "^4.16.2",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
     "express-session": "^1.15.6"
   }
 }
