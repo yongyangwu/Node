@@ -1,7 +1,7 @@
 var express = require('express');
 var cookieParser = require('cookie-parser');
 var app = express();
-app.use(express.static("./public"));
+// app.use(express.static("./public"));
 app.use(cookieParser());
 app.get("/",function (req,res) {
     // 设置cookie

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="JavaScriptLibraryMappings">
     <includedPredefinedLibrary name="Node.js Core" />
-    <excludedPredefinedLibrary name="Node/8.node-ejs/node_modules" />
     <excludedPredefinedLibrary name="Node/9.node-md5/node_modules" />
   </component>
 </project>

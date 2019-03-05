@@ -2,57 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23d5622c-9069-4d44-9009-e4793daf12ac" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/1.Node_Buffer/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.Node_Buffer/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Node_HTTP/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Node_HTTP/app2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Node_HTTP/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Node_HTTP/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Node_HTTP/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Node_HTTP/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.node-express/express-get/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.node-express/express-get/app2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.node-express/express-get/dist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.node-express/express-get/dist/static/css/app.8edc9a8d5f151a9f0370cf62625146f1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.node-express/express-get/dist/static/css/app.8edc9a8d5f151a9f0370cf62625146f1.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.node-express/express-get/dist/static/fonts/element-icons.6f0a763.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.node-express/express-get/dist/static/js/app.cbe99a7d2e987326d225.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.node-express/express-get/dist/static/js/app.cbe99a7d2e987326d225.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.node-express/express-get/dist/static/js/manifest.2ae2e69a05c33dfc65f8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.node-express/express-get/dist/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.node-express/express-get/dist/static/js/vendor.fe80b19ef8ab011de1cb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.node-express/express-get/dist/static/js/vendor.fe80b19ef8ab011de1cb.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.node-express/express-get/img-sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.node-express/express-get/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Node-Stream/aa.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Node-Stream/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Node-Stream/app2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Node_Process/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Node实现代理服务/proxy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node-koa/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/routes/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/routes/logout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/routes/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/views/login.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/views/register.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-login/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-login/server/controller/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-login/src/axios.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-login/src/components/login.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-login/src/components/register.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-login/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.node-cookie/demo2/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.node-cookie/demo2/public/home.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.node-cookie/demo2/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.node-cookie/demo2/public/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.node-cookie/demo2/views/home.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.node-express/express-get/dist/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.node-mongoose/标准版mongoose/app2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-image/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-image/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-image/querenhan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-image/views/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.node-cookie/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/2.node-cookie/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.node-cookie/app2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.node-session/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.node-express/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.node-express/express-get请求/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/5.node-express/express-post/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.node-express/express-post请求/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.node-express/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.node-express/public/bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.node-express/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.node-mongodb/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/6.node-mongodb/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.node-mongoose/简单版mongoose/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/7.node-mongoose/简单版mongoose/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Node_Buffer/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Node_Buffer/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.原生Node篇/路由模块/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.原生Node篇/路由模块/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.node-cookie/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.node-cookie/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.node-cookie/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.node-cookie/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.node-session/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/3.node-session/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.node-express/express-get/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/5.node-express/express-get/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.node-express/express-get/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/5.node-express/express-get/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.node-ejs/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.node-ejs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.node-ejs/views/content.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Node-Stream/aa.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Node-Stream/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Node-Stream/app2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Node-Stream/bb.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Node-Stream/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Node_Process/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-koa/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/node-koa/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-login/build/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-login/build/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-login/build/webpack.prod.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-login/build/webpack.prod.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-login/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-login/config/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -66,65 +52,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.Node_HTTP/app.js">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node-image/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="1596">
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7.node-mongoose/简单版mongoose/app.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="app2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.Node_HTTP/app2.js">
+        <entry file="file://$PROJECT_DIR$/7.node-mongoose/简单版mongoose/app2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.Node_Buffer/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Node_Process/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.原生Node篇/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.Node_HTTP/list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="304">
+              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.Node_HTTP/index.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="361">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.node-express/express-get/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3.node-session/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -135,8 +108,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="ejs" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -155,31 +128,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/7.node-mongoose/简单版mongoose/app4.js" />
-        <option value="$PROJECT_DIR$/10.node-文件上传/form.html" />
-        <option value="$PROJECT_DIR$/10.node-文件上传/app.js" />
-        <option value="$PROJECT_DIR$/1.原生Node篇/post请求/post中的ajax请求(常用)/ajax.html" />
-        <option value="$PROJECT_DIR$/1.原生Node篇/post请求/post中的ajax请求(常用)/ajax.js" />
-        <option value="$PROJECT_DIR$/12.Node_TCP/app.js" />
-        <option value="$PROJECT_DIR$/6.node-mongodb/app.js" />
-        <option value="$PROJECT_DIR$/node-koa/package.json" />
-        <option value="$PROJECT_DIR$/node-koa/app.js" />
-        <option value="$PROJECT_DIR$/5.node-express/express-get请求/app.js" />
-        <option value="$PROJECT_DIR$/5.node-express/express-get请求/index.html" />
-        <option value="$PROJECT_DIR$/5.node-express/express-post/app.js" />
-        <option value="$PROJECT_DIR$/5.node-express/express-get/index.html" />
-        <option value="$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/routes/index.js" />
-        <option value="$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/views/index.ejs" />
-        <option value="$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/routes/register.js" />
-        <option value="$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/views/register.ejs" />
-        <option value="$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/routes/login.js" />
         <option value="$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/views/login.ejs" />
-        <option value="$PROJECT_DIR$/5.node-express/express-get/app.js" />
         <option value="$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/routes/logout.js" />
         <option value="$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/app.js" />
         <option value="$PROJECT_DIR$/5.node-express/express-get/app2.js" />
         <option value="$PROJECT_DIR$/7.node-mongoose/简单版mongoose/app.js" />
-        <option value="$PROJECT_DIR$/2.node-cookie/app.js" />
         <option value="$PROJECT_DIR$/vue-login/src/components/Login.vue" />
         <option value="$PROJECT_DIR$/vue-login/src/components/register.vue" />
         <option value="$PROJECT_DIR$/vue-login/src/store/index.js" />
@@ -206,6 +159,26 @@
         <option value="$PROJECT_DIR$/Buffer/app.js" />
         <option value="$PROJECT_DIR$/Node_Process/app.js" />
         <option value="$PROJECT_DIR$/3.Node_HTTP/app.js" />
+        <option value="$PROJECT_DIR$/5.node-express/express-get/dist/demo.html" />
+        <option value="$PROJECT_DIR$/5.node-express/express-get/dist/index.html" />
+        <option value="$PROJECT_DIR$/2.node-cookie/public/index.html" />
+        <option value="$PROJECT_DIR$/2.node-cookie/app.js" />
+        <option value="$PROJECT_DIR$/2.node-cookie/demo2/public/list.html" />
+        <option value="$PROJECT_DIR$/8.node-ejs/views/home.ejs" />
+        <option value="$PROJECT_DIR$/8.node-ejs/app.js" />
+        <option value="$PROJECT_DIR$/2.node-cookie/demo2/views/home.ejs" />
+        <option value="$PROJECT_DIR$/2.node-cookie/demo2/public/home.ejs" />
+        <option value="$PROJECT_DIR$/2.node-cookie/demo2/public/index.html" />
+        <option value="$PROJECT_DIR$/2.node-cookie/demo2/app.js" />
+        <option value="$PROJECT_DIR$/3.node-session/views/index.ejs" />
+        <option value="$PROJECT_DIR$/3.node-session/app.js" />
+        <option value="$PROJECT_DIR$/node-koa/app.js" />
+        <option value="$PROJECT_DIR$/7.node-mongoose/标准版mongoose/app.js" />
+        <option value="$PROJECT_DIR$/7.node-mongoose/标准版mongoose/app2.js" />
+        <option value="$PROJECT_DIR$/node-image/views/index.html" />
+        <option value="$PROJECT_DIR$/node-image/app.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/5.node-express/express-get/app.js" />
       </list>
     </option>
   </component>
@@ -224,7 +197,6 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/1.原生Node篇/文件上传/node_modules" />
     <handled-path value="$PROJECT_DIR$/10.node-文件上传/node_modules" />
-    <handled-path value="$PROJECT_DIR$/2.node-cookie/node_modules" />
     <handled-path value="$PROJECT_DIR$/3.node-session/node_modules" />
     <handled-path value="$PROJECT_DIR$/4.node-formidable/node_modules" />
     <handled-path value="$PROJECT_DIR$/5.node-express/express-get/node_modules" />
@@ -234,16 +206,292 @@
     <handled-path value="$PROJECT_DIR$/6.node-mongodb/node_modules" />
     <handled-path value="$PROJECT_DIR$/7.node-mongoose/booksystem/node_modules" />
     <handled-path value="$PROJECT_DIR$/7.node-mongoose/node_modules" />
-    <handled-path value="$PROJECT_DIR$/8.node-ejs/node_modules" />
+    <handled-path value="$PROJECT_DIR$/8.node-ejs/demo1/node_modules" />
     <handled-path value="$PROJECT_DIR$/9.node-md5/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node-image/node_modules" />
     <handled-path value="$PROJECT_DIR$/node-koa/node_modules" />
     <handled-path value="$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/node_modules" />
     <handled-path value="$PROJECT_DIR$/vue-login/node_modules" />
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/1.原生Node篇/文件上传/node_modules/_formidable@1.1.1@formidable/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/append-field/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/busboy/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/concat-stream/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/concat-stream/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/concat-stream/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/concat-stream/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/dicer/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/express/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/multer/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/streamsearch/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/typedarray/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/10.node-文件上传/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/cookie-parser/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/express/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/express/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/express/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/express/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/2.node-cookie/demo1/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/3.node-session/package.json" />
+      <path value="$PROJECT_DIR$/4.node-formidable/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-get/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/express/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/express/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/express/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/express/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/express/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/express/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/express/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/express/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/finalhandler/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-post/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/5.node-express/express-project/package.json" />
+      <path value="$PROJECT_DIR$/6.node-mongodb/node.js中mongodb的增删改查操作/package.json" />
+      <path value="$PROJECT_DIR$/6.node-mongodb/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/booksystem/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/kareem/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/lodash.get/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/mongodb-core/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/mongodb/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/mongoose-legacy-pluralize/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/mongoose/examples/aggregate/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/mongoose/examples/express/connection-sharing/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/mongoose/examples/geospatial/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/mongoose/examples/lean/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/mongoose/examples/mapreduce/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/mongoose/examples/promises/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/mongoose/examples/querybuilder/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/mongoose/examples/replicasets/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/mongoose/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/mpath/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/mquery/node_modules/sliced/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/mquery/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/regexp-clone/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/require_optional/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/7.node-mongoose/node_modules/sliced/package.json" />
+      <path value="$PROJECT_DIR$/8.node-ejs/demo1/package.json" />
+      <path value="$PROJECT_DIR$/9.node-md5/package.json" />
+      <path value="$PROJECT_DIR$/node-image/package.json" />
+      <path value="$PROJECT_DIR$/node-koa/package.json" />
+      <path value="$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/package.json" />
+      <path value="$PROJECT_DIR$/vue-login/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
-    <option name="width" value="1935" />
-    <option name="height" value="1040" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -264,12 +512,7 @@
             <path>
               <item name="Node" type="b2602c69:ProjectViewProjectNode" />
               <item name="Node" type="462c0819:PsiDirectoryNode" />
-              <item name="Node_Process" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Node" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Node" type="462c0819:PsiDirectoryNode" />
-              <item name="Node实现代理服务" type="462c0819:PsiDirectoryNode" />
+              <item name="3.node-session" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -283,7 +526,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.4.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../suning/echarts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
@@ -292,16 +535,17 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\Desktop\GitHub\Node\node-image" />
+      <recent name="C:\Users\asus\Desktop\GitHub\Node\7.node-mongoose\标准版mongoose" />
+      <recent name="C:\Users\asus\Desktop\GitHub\Node\2.node-cookie\demo2\public" />
+      <recent name="C:\Users\asus\Desktop\GitHub\Node\8.node-ejs\views" />
+      <recent name="C:\Users\asus\Desktop\GitHub\Node\2.node-cookie\demo2\views" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\Desktop\GitHub\Node\5.node-express\express-get\dist" />
       <recent name="C:\Users\asus\Desktop\GitHub\Node\2.node-cookie\public" />
       <recent name="C:\Users\asus\Desktop\GitHub\Node\7.node-mongoose\简单版mongoose" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\asus\Desktop\GitHub\Node\Buffer" />
-      <recent name="C:\Users\asus\Desktop\GitHub\Node\HTTP模块" />
-      <recent name="C:\Users\asus\Desktop\GitHub\Node\Node-Stream" />
-      <recent name="C:\Users\asus\Desktop\GitHub\Node\vue-login\src\components" />
-      <recent name="C:\Users\asus\Desktop\GitHub\Node\5.node-express\express-get" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -316,28 +560,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.app.js (2)">
+  <component name="RunManager" selected="Node.js.app.js (4)">
     <configuration name="app2.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app2.js" working-dir="$PROJECT_DIR$/Node-Stream" />
-    <configuration name="app2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app2.js" working-dir="$PROJECT_DIR$/5.node-express/express-get" />
-    <configuration name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/7.node-mongoose/简单版mongoose" />
-    <configuration name="app.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/Node_Process" />
-    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3.Node_HTTP/app.js" working-dir="$PROJECT_DIR$/3.Node_HTTP" />
-    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1.Node_Buffer/app.js" working-dir="$PROJECT_DIR$/1.Node_Buffer" />
-    <configuration name="proxy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="proxy.js" working-dir="$PROJECT_DIR$/Node实现代理服务" />
+    <configuration name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/2.node-cookie/demo2" />
+    <configuration name="app.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/7.node-mongoose/标准版mongoose" />
+    <configuration name="app.js (3)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/5.node-express/express-get" />
+    <configuration name="app.js (4)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/8.node-ejs" />
+    <configuration name="app.js (5)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/3.node-session" />
     <list>
-      <item itemvalue="Node.js.app2.js" />
+      <item itemvalue="Node.js.app.js (5)" />
+      <item itemvalue="Node.js.app.js (4)" />
       <item itemvalue="Node.js.app.js (1)" />
-      <item itemvalue="Node.js.proxy.js" />
       <item itemvalue="Node.js.app.js (2)" />
       <item itemvalue="Node.js.app.js (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.app.js (2)" />
         <item itemvalue="Node.js.app.js (3)" />
         <item itemvalue="Node.js.app.js (2)" />
-        <item itemvalue="Node.js.proxy.js" />
         <item itemvalue="Node.js.app.js (1)" />
+        <item itemvalue="Node.js.app.js (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -425,51 +667,115 @@
       <workItem from="1530952888357" duration="1854000" />
       <workItem from="1531098637400" duration="3085000" />
       <workItem from="1531104426991" duration="12484000" />
+      <workItem from="1532001394943" duration="1020000" />
+      <workItem from="1532055380353" duration="1134000" />
+      <workItem from="1532067318208" duration="593000" />
+      <workItem from="1532223730717" duration="1074000" />
+      <workItem from="1532914195294" duration="2272000" />
+      <workItem from="1533001082132" duration="701000" />
+      <workItem from="1533086934496" duration="593000" />
+      <workItem from="1533178758348" duration="722000" />
+      <workItem from="1533191242721" duration="599000" />
+      <workItem from="1533439250630" duration="596000" />
+      <workItem from="1533444891117" duration="1250000" />
+      <workItem from="1533464851687" duration="596000" />
+      <workItem from="1533537487050" duration="2478000" />
+      <workItem from="1533610613344" duration="2067000" />
+      <workItem from="1533692473777" duration="1195000" />
+      <workItem from="1533779665649" duration="2690000" />
+      <workItem from="1533866051183" duration="1195000" />
+      <workItem from="1534124664063" duration="1584000" />
+      <workItem from="1534210369532" duration="597000" />
+      <workItem from="1534228466416" duration="4000" />
+      <workItem from="1534230102531" duration="14272000" />
+      <workItem from="1534297317737" duration="1637000" />
+      <workItem from="1534413102759" duration="76000" />
+      <workItem from="1534495312828" duration="598000" />
+      <workItem from="1534559856558" duration="595000" />
+      <workItem from="1534574903111" duration="2421000" />
+      <workItem from="1534641358035" duration="1317000" />
+      <workItem from="1534728561982" duration="2816000" />
+      <workItem from="1535360154151" duration="2075000" />
+      <workItem from="1535419845319" duration="590000" />
+      <workItem from="1535434593028" duration="2481000" />
+      <workItem from="1535506520014" duration="2303000" />
+      <workItem from="1535591997102" duration="1206000" />
+      <workItem from="1535679224815" duration="595000" />
+      <workItem from="1536117226462" duration="172000" />
+      <workItem from="1538278706650" duration="2613000" />
+      <workItem from="1538526720036" duration="4026000" />
+      <workItem from="1538700636483" duration="1198000" />
+      <workItem from="1538787484230" duration="2218000" />
+      <workItem from="1538878592720" duration="370000" />
+      <workItem from="1538879540885" duration="1827000" />
+      <workItem from="1538962622281" duration="593000" />
+      <workItem from="1538974595745" duration="594000" />
+      <workItem from="1538987564472" duration="599000" />
+      <workItem from="1539010406970" duration="599000" />
+      <workItem from="1539053021173" duration="598000" />
+      <workItem from="1539070816623" duration="223000" />
+      <workItem from="1540122419397" duration="4218000" />
+      <workItem from="1540126826510" duration="10654000" />
+      <workItem from="1540169649084" duration="5130000" />
+      <workItem from="1540256403222" duration="3142000" />
+      <workItem from="1540345032095" duration="1703000" />
+      <workItem from="1540432407188" duration="596000" />
+      <workItem from="1540477269458" duration="612000" />
+      <workItem from="1540516573272" duration="1260000" />
+      <workItem from="1540618369133" duration="1233000" />
+      <workItem from="1540774778861" duration="595000" />
+      <workItem from="1540869876991" duration="595000" />
+      <workItem from="1541053747329" duration="24000" />
+      <workItem from="1548575332261" duration="9000" />
+      <workItem from="1548576152419" duration="3246000" />
+      <workItem from="1548638110583" duration="1084000" />
+      <workItem from="1549111048456" duration="67000" />
+      <workItem from="1551582160710" duration="21000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="249959000" />
+    <option name="totallyTimeSpent" value="355720000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15587847" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978261" visible="true" weight="0.19154558" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32952926" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5006605" side_tool="true" weight="0.34379458" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34379458" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993395" weight="0.34236804" />
+      <window_info id="Structure" order="1" sideWeight="0.5021739" side_tool="true" weight="0.15125495" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32952926" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39800286" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32859176" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16248348" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978261" visible="true" weight="0.19195251" />
+      <window_info id="Structure" order="1" sideWeight="0.5021739" side_tool="true" weight="0.15125495" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3281027" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993395" weight="0.3428165" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39917126" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39800286" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32952926" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006605" side_tool="true" weight="0.34379458" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32952926" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32859176" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -485,243 +791,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../suning/ssw_V4.8.1/ssw-web/src/main/webapp/RES/js/ssw/taskworkbar/taskWorkbar.js" />
-    <entry file="file://$PROJECT_DIR$/5.node-express/public/bundle.js" />
-    <entry file="file://$PROJECT_DIR$/5.node-express/app.js" />
-    <entry file="file://$PROJECT_DIR$/5.node-express/express-post/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.node-express/express-get/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/bin/www">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1150" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.node-express/express-get/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="151" lean-forward="true" selection-start-column="151" selection-end-column="151" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/views/login.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/routes/register.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="55" column="56" selection-start-line="55" selection-start-column="56" selection-end-line="55" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.node-express/express-get/app2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/views/register.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="71" selection-start-line="9" selection-start-column="71" selection-end-line="9" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/routes/logout.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/routes/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodeProject/1.node_ejs登陆注册demo/project/views/index.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7.node-mongoose/标准版mongoose/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7.node-mongoose/简单版mongoose/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.node-cookie/app2.js" />
-    <entry file="file://$PROJECT_DIR$/3.node-session/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-login/src/axios.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-login/src/store/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-login/node_modules/db.js" />
-    <entry file="file://$PROJECT_DIR$/vue-login/server/token/checkToken.js" />
-    <entry file="file://$PROJECT_DIR$/vue-login/server/token/createToken.js" />
-    <entry file="file://$PROJECT_DIR$/vue-login/config/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-login/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-login/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="53" column="45" lean-forward="true" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-login/server/db/db.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-login/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-login/server/routes/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-login/server/controller/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="38" lean-forward="true" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-login/src/components/Register.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1349">
-          <caret line="102" column="23" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-login/src/components/Login.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="48" column="53" lean-forward="true" selection-start-line="48" selection-start-column="53" selection-end-line="48" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.node-express/express-get/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Node-Stream/input" />
-    <entry file="file://$PROJECT_DIR$/Node实现代理服务/proxy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Node-Stream/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.node-cookie/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Node-Stream/app2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Node-Stream/app2.js" />
     <entry file="file://$PROJECT_DIR$/HTTP模块/hello" />
     <entry file="file://$PROJECT_DIR$/3.Node_HTTP/test.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -744,13 +814,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.Node_Buffer/test.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/1.Node_Buffer/test.txt" />
     <entry file="file://$PROJECT_DIR$/1.原生Node篇/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Node_Process/app.js" />
+    <entry file="file://$PROJECT_DIR$/3.Node_HTTP/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -761,24 +837,196 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Node_Process/app.js">
+    <entry file="file://$PROJECT_DIR$/1.Node_Buffer/app.js" />
+    <entry file="file://$PROJECT_DIR$/1.原生Node篇/get请求/get中的ajax式请求(常见)/ajax.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.node-express/express-get/dist/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.node-express/express-project/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-column="33" />
+          <caret column="4" selection-start-column="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.Node_Buffer/app.js">
+    <entry file="file://$PROJECT_DIR$/8.node-ejs/views/content.ejs" />
+    <entry file="file://$PROJECT_DIR$/1.原生Node篇/get请求/get中的ajax式请求(常见)/ajax.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.node-express/express-get/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.node-express/express-get/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        <state>
+          <caret column="151" selection-start-column="151" selection-end-column="151" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.Node_HTTP/app.js">
+    <entry file="file://$PROJECT_DIR$/5.node-express/express-get/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="190">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.node-cookie/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/2.node-cookie/readme" />
+    <entry file="file://$PROJECT_DIR$/2.node-cookie/app.js" />
+    <entry file="file://$PROJECT_DIR$/8.node-ejs/views/home.ejs" />
+    <entry file="file://$PROJECT_DIR$/8.node-ejs/app.js" />
+    <entry file="file://$PROJECT_DIR$/2.node-cookie/demo1/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.node-cookie/demo2/public/home.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.node-cookie/demo2/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.node-cookie/demo2/views/home.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.node-cookie/demo2/public/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.node-cookie/demo2/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node-koa/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.node-mongoose/booksystem/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.node-session/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.node-express/express-get/app2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.node-mongodb/node.js中mongodb的增删改查操作/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.node-mongoose/标准版mongoose/app2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.node-mongoose/标准版mongoose/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.node-ejs/demo1/views/home.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.node-ejs/demo1/views/content.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.node-ejs/demo1/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node-image/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node-image/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node-image/querenhan.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node-image/output.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node-image/output.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node-image/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.node-mongoose/简单版mongoose/app2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.node-mongoose/简单版mongoose/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.node-express/express-get/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.node-session/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
         </state>
       </provider>
     </entry>

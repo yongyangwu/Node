@@ -8,7 +8,7 @@ function startServer(route,handle) {
         }
         route(handle,req.url); // if(req.url ==='/' || req.url === '/home'){
         //     res.writeHead(200,{'Content-Type':'text/html'});
-        //     var myReadStream = fs.createReadStream(__dirname +'/index.html','utf8');
+        //     var myReadStream = fs.createReadStream(__dirname +'/index.ejs','utf8');
         //     myReadStream.pipe(res);
         // }else if(req.url==='/review'){
         //     res.writeHead(200,{'Content-Type':'text/html'});

@@ -7,6 +7,7 @@ app.use(session({
     saveUninitialized: true
 }));
 app.set('view engine','ejs');
+
 app.get('/',function (req,res) {
     console.log(req.session)
     if( req.session.login){
@@ -15,7 +16,7 @@ app.get('/',function (req,res) {
         // 没登录
         var login = false;
     }
-    res.render('index',{login:true,name:"bob"});
+    res.render('index',{login:login,name:"bob"});
 });
 
 app.get('/login',function (req,res) {
