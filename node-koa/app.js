@@ -1,6 +1,11 @@
-const Koa = require('koa');
-const app = new Koa();
-
-app.listen(8888,function () {
-    console.log('server is running');
-});
+const koa = require("koa");
+const app = new koa();
+app.use(async (ctx,next)=>{
+   ctx.response.body={
+       url:ctx.request.url,
+       query:ctx.request.query,
+   };
+})
+app.listen(3000,()=>{
+    console.log("server is running at 3000")
+})

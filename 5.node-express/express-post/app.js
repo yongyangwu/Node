@@ -1,6 +1,7 @@
 var express = require("express");
 var bodyParser = require("body-parser");
 var app = express();
+
 // 1.parse application/x-www-form-urlencoded
 // app.use(bodyParser.urlencoded({ extended: false }))
 
@@ -18,9 +19,10 @@ app.use(bodyParser.json())
 
 // })
 
-app.post("/",function (req,res) {
-    console.dir(req.body);
-    res.send(req.body)
+app.post("/api/v1/login",function (req,res) {
+    // res.setHeader("Access-Control-Allow-Origin","*");
+   
+    res.send({code:0,msg:'成功拿到数据'})
 
 });
 
